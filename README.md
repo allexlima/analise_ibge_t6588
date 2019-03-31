@@ -11,3 +11,8 @@ __Fonte:__ [IBGE - Levantamento Sistemático da Produção Agrícola](https://si
 ---
 
 Os gráficos foram gerados pelo módulo Geopandas e Matplotlib do Python. As bases e arquivos `.shp` foram baixados do site do [Núcleo de Economia Regional e Urbana da Universidade de São Paulo](http://www.usp.br/nereus/?dados=brasil).
+
+---
+
+By [Allex Lima](http://allexlima.com)
+###### Copyright © 2019 - Licensed by MIT LICENSE
