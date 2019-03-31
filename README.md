@@ -6,4 +6,8 @@ __Fonte:__ [IBGE - Levantamento Sistemático da Produção Agrícola](https://si
 
 ---
 
+<img src="https://github.com/allexlima/analise_ibge_t6588/blob/master/geral.png?raw=true" width="400px"> <img src="https://github.com/allexlima/analise_ibge_t6588/blob/master/por_estado.png?raw=true" width="400px">
+
+---
+
 Os gráficos foram gerados pelo módulo Geopandas e Matplotlib do Python. As bases e arquivos `.shp` foram baixados do site do [Núcleo de Economia Regional e Urbana da Universidade de São Paulo](http://www.usp.br/nereus/?dados=brasil).
