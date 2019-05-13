@@ -6,6 +6,10 @@ __Fonte:__ [IBGE - Levantamento Sistemático da Produção Agrícola](https://si
 
 ---
 
+[Análise Completa (notebook)](https://github.com/allexlima/analise_ibge_t6588/blob/master/analise_ibge.ipynb)
+
+---
+
 <img src="https://github.com/allexlima/analise_ibge_t6588/blob/master/geral.png?raw=true" width="400px"> <img src="https://github.com/allexlima/analise_ibge_t6588/blob/master/por_estado.png?raw=true" width="400px">
 
 ---
